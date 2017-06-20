@@ -7,13 +7,14 @@
 ### Todo: 
 * How to choose web hosting
 * Content Delivery Network sites
-* Configure W3tc Total Cache
-* Configure Super Cache
-* Screenshots
+* Caching Plugin:
+    * Configure W3tc Total Cache
+    * Configure Super Cache
 * PHP commands to optimize pages
-* Using GTMetrix
-* Using WebpageTest.org
-* Reading Waterfall chart
+* Testing Performance
+    * Using GTMetrix
+    * Using WebpageTest.org
+    * Reading Waterfall chart
 
 ## Website Deployment
 
