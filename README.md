@@ -1,6 +1,8 @@
-# Website-Optimization
+# Website Management
 
-### Status: In progress
+## Status: In progress
+
+## Website Optimization
 
 ### Todo: 
 * How to choose web hosting
@@ -12,6 +14,19 @@
 * Using GTMetrix
 * Using WebpageTest.org
 * Reading Waterfall chart
+
+## Website Deployment
+
+### Todo:
+* Local development
+* Task runners
+* Development
+  * CSS
+  * Javascript
+  * HTML
+  * Images and other assets
+* Staging
+
 
 ### Contributors
 @chrisbautista
